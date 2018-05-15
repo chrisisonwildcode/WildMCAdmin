@@ -1,0 +1,5 @@
+name: WildMCAdmin
+author: wildcode
+version: 1.0 (alpha)
+main: com.wildcode.wildmcadmin.WildMCAdmin
+description: Admin plugin for wildcode minecraft server

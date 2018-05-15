@@ -1,0 +1,6 @@
+
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+bin/com/wildcode/wildmcadmin/WildMCAdmin.class
+bin/plugin.yml
